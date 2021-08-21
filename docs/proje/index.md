@@ -13,11 +13,11 @@ aside: false
 
 
 
-[Vue Todo App  ](https://ted2xmen.github.io/Vue-Todo-App)
+[Vue Todo App  ](https://ted2xmen.github.io/Vue-Todo-App) ![GitHub last commit](https://img.shields.io/github/last-commit/ted2xmen/Vue-3-Todo-App)
 
-[Searchon "Junior Friendly Search Engine"  ](https://searchon.vercel.app)
+[Searchon "Junior Friendly Search Engine"  ](https://searchon.vercel.app) ![GitHub last commit](https://img.shields.io/github/last-commit/ted2xmen/searchon)
 
-[Kutuphaneden "Yazılıma Yeni Başlayanlar için Okuma Listesi"  ](https://ted2xmen.github.io/kutuphaneden/)
+[Kutuphaneden "Yazılıma Yeni Başlayanlar için Okuma Listesi"  ](https://ted2xmen.github.io/kutuphaneden/) ![GitHub last commit](https://img.shields.io/github/last-commit/ted2xmen/kutuphaneden)
 
 [Kodluyoruz & Patika Projeleri ](https://ted2xmen.github.io/Projects)
 
