@@ -1,5 +1,5 @@
 ---
-top: 1
+top: 
 category: Vue 3
 tags:
 
@@ -38,5 +38,3 @@ import { v4 as uuidv4 } from 'uuid'
 axios: npm i axios
 global import: @main.js
 app.config.globalProperties.$axios = axios; // global import
-
-

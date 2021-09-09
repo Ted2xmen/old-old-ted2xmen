@@ -16,27 +16,28 @@ aside: false
 | CSS         | CSS                   | ✔️✔️✔️✔️⏳    
 | CSS         | Bootstrap             | ✔️✔️✔️✔️⏳  |
 | CSS         | Tailwind             | ✔️⏳⏳⏳⏳  |
-| CSS         | SASS & LESS              | ⏳⏳⏳⏳⏳  |
+| CSS         | SASS              | ✔️⏳⏳⏳⏳  |
 
 | LEARN              |  Library & Framework    | STATUS  | 
 | -----------        | ------------------------|-------- |
-| JavaScript         |                         | ✔️✔️✔️⏳⏳ |
-| JavaScript         |     Vue 3             | ✔️⏳⏳⏳⏳  |
-| JavaScript         |     Node JS             | ⏳⏳⏳⏳⏳  |
+| JavaScript         |     JavaScript            | ✔️✔️✔️⏳⏳ |
+| JavaScript         |     Vue 3             | ✔️✔️⏳⏳⏳  |
+| JavaScript         |     Node JS             | ✔️⏳⏳⏳⏳  |
 | JavaScript         |     Express JS          | ⏳⏳⏳⏳⏳  |
 
 | LEARN       | STATUS  | 
 | ----------  |-------- |
 | MONGODB     | ✔️✔️⏳⏳⏳  |
-| AWS Cloud   | ⏳⏳⏳⏳⏳  |
+| Firebase   | ✔️✔️⏳⏳⏳  |
+| PostgreSql   | ⏳⏳⏳⏳⏳  |
 
->  Learning Docker from [Documentation](https://docs.docker.com/) 💻
 
 | LEARN       | STATUS  | 
 | ----------  |-------- |
 | Docker    | ✔️⏳⏳⏳⏳  |
 | Git   | ✔️✔️✔️⏳⏳  |
 | Webpack   | ✔️⏳⏳⏳  |
+| Vite   | ✔️⏳⏳⏳  |
 
 
 
@@ -44,6 +45,13 @@ aside: false
 ## Courses 
 
 [Vue Mastery  ](https://www.vuemastery.com/)
+
+[Vue School  ](https://vueschool.io/)
+
+[KablosuzKedi Youtube Vue Bootcamp  ](https://www.youtube.com/watch?v=SAIBu6YvErE&list=PL_f2F0Oyaj48Y0Uv4BTlqzK7INi92D2wp)
+
+[Frontend Masters  ](https://frontendmasters.com/my-account/#account)
+
 
 [Modern HTML & CSS From The Beginning (Including Sass) Brad Traversy](https://www.udemy.com/share/1013eAAkQYcFpTTXQ=/)
 
@@ -53,7 +61,7 @@ aside: false
 
 [Frontend Web Development Patikası  ](https://app.patika.dev/egitimler/frontend-web-development-patikasi)
 
-
+... 
 
 ## Certificates
 
