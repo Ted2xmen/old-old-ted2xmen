@@ -1,7 +1,7 @@
 
 
 
-![Commits Badge](https://badges.pufler.dev/commits/monthly/ted2xmen)
+
 
 
 
