@@ -1,5 +1,5 @@
 
-
+- <tr data-v-79050fac=""><td data-v-79050fac=""><img data-v-79050fac="" src="https://ted2xmen.netlify.app/assets/img/vuejs.svg" alt="" width="50"></td> <td data-v-79050fac=""><img data-v-79050fac="" src="https://ted2xmen.netlify.app/assets/img/nodejs.svg" alt="" width="85"></td> <td data-v-79050fac=""><img data-v-79050fac="" src="https://ted2xmen.netlify.app/assets/img/mongodb.svg" alt="" width="70"></td>  </tr>
 
 
 
