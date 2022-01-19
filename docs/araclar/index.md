@@ -7,8 +7,8 @@ aside: false
 
 | Key                   |   Description       |
 | ---------------------- | ------------------- |
-| HP Pavilion Gaming     | 16-a0006NT          |
-|Monitör: Rampage        | 23'6 165 MHZ        |
+| Macbook Air     | M1           |
+| Monitör: Rampage        | 23'6 165 MHZ        |
 | Ipad 8                 | 10.2'               |
 
 

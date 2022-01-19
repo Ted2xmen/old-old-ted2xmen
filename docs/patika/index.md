@@ -16,14 +16,14 @@ aside: false
 | CSS         | CSS                   | ✔️✔️✔️✔️⏳    
 | CSS         | Bootstrap             | ✔️✔️✔️✔️⏳  |
 | CSS         | Tailwind             | ✔️⏳⏳⏳⏳  |
-| CSS         | SASS              | ✔️⏳⏳⏳⏳  |
+| CSS         | SASS              | ✔️✔️⏳⏳⏳  |
 
 | LEARN              |  Library & Framework    | STATUS  | 
 | -----------        | ------------------------|-------- |
 | JavaScript         |     JavaScript            | ✔️✔️✔️⏳⏳ |
-| JavaScript         |     Vue 3             | ✔️✔️⏳⏳⏳  |
+| JavaScript         |     Vue 3             | ✔️✔️✔️⏳⏳  |
 | JavaScript         |     Node JS             | ✔️⏳⏳⏳⏳  |
-| JavaScript         |     Express JS          | ⏳⏳⏳⏳⏳  |
+| JavaScript         |     Express JS          | ✔️⏳⏳⏳⏳  |
 
 | LEARN       | STATUS  | 
 | ----------  |-------- |
@@ -37,7 +37,7 @@ aside: false
 | Docker    | ✔️⏳⏳⏳⏳  |
 | Git   | ✔️✔️✔️⏳⏳  |
 | Webpack   | ✔️⏳⏳⏳  |
-| Vite   | ✔️⏳⏳⏳  |
+| Vite   | ✔️✔️⏳⏳  |
 
 
 

@@ -82,3 +82,7 @@ CoenraadS
 A customizable extension for colorizing matching brackets
 
 > Süslü ve köşeli parantezleri renklendiriyor. Böylece yanlış parantezi silme riski en aza iniyor. 
+
+- Polacode
+
+Yazdığınız kodların ekran görüntüsünü almanızı sağlıyor.
